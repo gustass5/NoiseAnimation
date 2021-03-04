@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"module": "none",
+		"noImplicitAny": true,
+		"outFile": "./dist/build.js",
+		"preserveConstEnums": true,
+		"rootDir": "./src",
+		"target": "es5",
+		"allowSyntheticDefaultImports": true,
+		"allowUnreachableCode": false,
+		"declaration": false,
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+		"noUnusedLocals": true,
+		"noUnusedParameters": true
+	}
+}
